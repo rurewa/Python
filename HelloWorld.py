@@ -1,3 +1,2 @@
-# Переменная и диалог
-name = input("How are you?\n");
-print("Привет", name);
+# Стартовая программа на Python
+print("Hello!")
