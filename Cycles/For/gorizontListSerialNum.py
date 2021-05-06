@@ -11,6 +11,6 @@ def some_function(a):
 myFormula = [some_function(i) for i in range(10)];
 print(myFormula);
 #-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-# Тоже самое, но с условие: выводит числа, которые делятся на 2
+# Тоже самое, но с условием: выводит числа, которые делятся на 2
 filtered = [i for i in range(20) if i % 2 == 0];
 print(filtered);
