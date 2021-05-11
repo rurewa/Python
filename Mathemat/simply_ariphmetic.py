@@ -56,3 +56,15 @@ print("Возведение в степень: ")
 total = 5 ** 4
 print("5 ** 4 = ", total, "\n")
 
+# Действия с отрицательными числами и 0
+print("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
+total = -5 + 2
+print("-5 + 2 =", total)
+total = 1 + -4
+print("1 + -4 =", total)
+total = -2 + -3
+print("-2 + -3 =", total)
+total = -2 * -3
+print("-2 * -3 =", total)
+total = 2 * 0
+print("2 * 0 =", total)
