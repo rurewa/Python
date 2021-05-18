@@ -6,3 +6,8 @@ def double(num):
 doubleNum = double(3);
 print(doubleNum);
 print(double.__doc__);
+#
+def name():
+    print("My name is Alex!") # Функция возвращает строку
+
+name()
